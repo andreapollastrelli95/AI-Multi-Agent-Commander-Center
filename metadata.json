@@ -1,0 +1,6 @@
+{
+  "name": "AI Multi-Agent Command Center",
+  "description": "Piattaforma di orchestrazione intelligente con 16 agenti AI specializzati divisi in tre divisioni operative e coordinati da un AI Chief Orchestrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
